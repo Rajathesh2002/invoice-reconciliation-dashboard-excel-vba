@@ -31,13 +31,12 @@ This Excel VBA project simulates the workflow of a Warranty Processing Specialis
 ![Raw Invoices](Raw_Invoices%20with%20red%20highlights.png)
 ![Submission Report](Submission_Report.png)
 
+## 🎥 Video Walkthrough
+
+[Watch the Demo on Google Drive](https://drive.google.com/file/d/1fvKyAb23zy683c3xN65AajQzALXJAijp/view?usp=sharing)
 
 
 
----
-
-## ▶️ Video Walkthrough (Coming Soon)
-*A 60-second demo video will be added here.*
 
 ---
 
