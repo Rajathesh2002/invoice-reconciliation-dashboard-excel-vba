@@ -26,14 +26,10 @@ This Excel VBA project simulates the workflow of a Warranty Processing Specialis
 
 ## 📸 Screenshots
 
-### ✅ Dashboard
 ![Dashboard](dashboard.png)
-
-### ✅ Raw Invoices with Highlights
 ![Raw Invoices](raw_invoices.png)
-
-### ✅ Submission Report
 ![Submission Report](submission_report.png)
+
 
 
 ---
