@@ -1,7 +1,8 @@
-# Warranty Claim Submission Automation – Excel VBA Project
+# seo-dashboard-tracker
+
 
 ## 🎯 Project Objective
-This Excel VBA project simulates the workflow of a Warranty Processing Specialist. It automates the cleaning of dealership warranty invoice data, highlights invalid claims, and generates a clean submission report along with a visual dashboard.
+This Excel VBA project simulates the workflow of a seo-dashboard-tracker. It automates the cleaning of dealership warranty invoice data, highlights invalid claims, and generates a clean submission report along with a visual dashboard.
 
 ---
 
