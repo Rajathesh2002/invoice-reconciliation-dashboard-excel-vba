@@ -2,7 +2,8 @@
 
 
 ## 🎯 Project Objective
-This Excel VBA project simulates the workflow of a seo-dashboard-tracker. It automates the cleaning of dealership warranty invoice data, highlights invalid claims, and generates a clean submission report along with a visual dashboard.
+This Excel VBA project simulates a real-world SEO dashboard tracker. It automates keyword position tracking, traffic trend monitoring, and click-through rate (CTR) analysis. The tool highlights performance drops and generates visual summaries using charts and slicers – designed for beginner SEO analytics and GA4-style reporting.
+
 
 ---
 
