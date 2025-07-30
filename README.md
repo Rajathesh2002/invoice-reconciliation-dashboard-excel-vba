@@ -2,20 +2,27 @@
 
 
 ## 🎯 Project Objective
-This Excel VBA project simulates a real-world SEO dashboard tracker. It automates keyword position tracking, traffic trend monitoring, and click-through rate (CTR) analysis. The tool highlights performance drops and generates visual summaries using charts and slicers – designed for beginner SEO analytics and GA4-style reporting.
+This Excel VBA project simulates a real-world invoice reconciliation and reporting system. It automates billing validation, mismatch detection, and click-through exception tracking across 100+ transactions. The dashboard generates audit-ready reports and visual summaries using slicers and charts — designed for accounting, finance, and compliance support teams.
 
 
 ---
 
 ## ⚙️ Features
-- Macro to highlight rows with missing VINs or zero-cost values
-- Automatically copies valid claims to a `Submission_Report` sheet
-- Dashboard with:
-  - Total Claims
-  - Approved Claims
-  - Total Payout
-  - Bar chart by Dealer
-  - Line chart of approved claims over time
+Automated validation macro to flag missing VINs or zero-cost transactions
+
+Auto-transfer of valid claims to a clean Submission_Report sheet
+
+Interactive Excel dashboard with:
+
+Total Claims count
+
+Approved vs Rejected breakdown
+
+Total Payout Summary
+
+Dealer-wise Bar Chart (Claim Volume)
+
+Time-series Line Chart of Approved Claims
 
 ---
 
